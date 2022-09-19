@@ -6,7 +6,6 @@
   <img src="https://user-images.githubusercontent.com/96375955/186334371-986ea3e8-bf6d-48c8-a434-3ed8d0fa6a1b.png" width="300">
   </p>
   
-  ### [Instagram](https://Instagram.com/niime.dev)
   
   
 ## Getting Started
